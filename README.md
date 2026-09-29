@@ -1,12 +1,15 @@
 ## README 👋
 
 ### ⚡ `config.json`
+---
 
-```json
-{
-  "name": "Anthony Calixto",
-  "coffee_dependent": true,
-  "fun_fact": "Escribe aquí tu dato curioso",
-  "side_quest": "Optimizando rutinas diarias y automatizando flujos de trabajo"
-}
-```
+### Opción 2: Pregunta directa y desenfadada (*"Beyond the Terminal"*)
+
+Una lista corta de 2 o 3 puntos que rompa la formalidad de las tecnologías:
+
+```markdown```
+### 👾 Fuera del código / Beyond the screen
+
+- ⌨️ **Curiosidad:** (Aquí puedes contar tu pasatiempo o hábito poco común, por ejemplo tu interés en periféricos, setups personalizados o automatización doméstica).
+- 🏋️ **Disciplina:** Apasionado del gimnasio y de la optimización del rendimiento físico.
+- 🐈 **Dato clave:** Amante de los gatos y de resolver problemas complejos con buena música de fondo.
