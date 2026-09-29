@@ -1,12 +1,7 @@
 ## README 👋
 
 ### ⚡ `config.json`
----
-
-### Opción 2: Pregunta directa y desenfadada (*"Beyond the Terminal"*)
-
-Una lista corta de 2 o 3 puntos que rompa la formalidad de las tecnologías:
-
+---------------------
 ```markdown```
 ### 👾 Fuera del código / Beyond the screen
 
