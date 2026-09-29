@@ -2,7 +2,6 @@
 
 ### ⚡ `config.json`
 
-```json
 {
   "name": "Anthony Calixto",
   "coffee_dependent": true,
